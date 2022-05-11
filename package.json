@@ -1,0 +1,12 @@
+{
+  "name": "avalanche-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ivnminin/avalanche-overview.git",
+  "author": "ivnminin",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@avalabs/avalanche-wallet-sdk": "^0.17.2"
+  }
+}
