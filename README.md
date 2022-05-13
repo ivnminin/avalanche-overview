@@ -2,6 +2,12 @@
 
 ## Download AvalancheGo
 
+preinstall
+
+```
+sudo apt install build-essential
+```
+
 You're first going to need to install Go 1.17.9 or later. Follow the instructions [here](https://go.dev/doc/install).
 
 Download the AvalancheGo repository into your $GOPATH:
